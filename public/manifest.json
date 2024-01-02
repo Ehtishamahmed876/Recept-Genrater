@@ -1,0 +1,19 @@
+{
+    "id":"1",
+    "name": "Recept Genrator",
+    "short_name": "Recept Genrater",
+    "description": "This Recept Genrater with PWA",
+    "icons": [
+        {
+          "src": "./images/logo.png",
+          "sizes": "512x512",
+          "type": "image/png"
+        }
+      ],
+    "theme_color": "#2196f3",
+    "background_color": "#2196f3",
+    "display": "standalone",
+    "orientation": "portrait",
+    "scope": ".",
+    "start_url": "/"
+  }
